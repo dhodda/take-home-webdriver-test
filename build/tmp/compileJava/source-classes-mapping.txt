@@ -1,5 +1,7 @@
 dotdash/automation/pageobjects/DragNDropPageObject.java
  dotdash.automation.pageobjects.DragNDropPageObject
+dotdash/automation/helpers/ConfigReaderPropertyNotFoundException.java
+ dotdash.automation.helpers.ConfigReaderPropertyNotFoundException
 dotdash/automation/pageobjects/NewWindowPageObject.java
  dotdash.automation.pageobjects.NewWindowPageObject
 dotdash/automation/pageobjects/IFramePageObject.java
@@ -18,14 +20,12 @@ dotdash/automation/pageobjects/DynamicControlsPageObject.java
  dotdash.automation.pageobjects.DynamicControlsPageObject
 dotdash/automation/pageobjects/JSErrorPageObject.java
  dotdash.automation.pageobjects.JSErrorPageObject
-dotdash/automation/data/ConfigReaderPropertyNotFoundException.java
- dotdash.automation.data.ConfigReaderPropertyNotFoundException
+dotdash/automation/helpers/ConfigReader.java
+ dotdash.automation.helpers.ConfigReader
 dotdash/automation/pageobjects/MouseHoverPageObject.java
  dotdash.automation.pageobjects.MouseHoverPageObject
 dotdash/automation/pageobjects/UplaodFilePageObject.java
  dotdash.automation.pageobjects.UplaodFilePageObject
-dotdash/automation/data/ConfigReader.java
- dotdash.automation.data.ConfigReader
 dotdash/automation/pageobjects/LoginPageObject.java
  dotdash.automation.pageobjects.LoginPageObject
 dotdash/automation/pageobjects/JSAlertsPageObject.java

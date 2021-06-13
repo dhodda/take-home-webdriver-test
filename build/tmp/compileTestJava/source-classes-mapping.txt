@@ -1,2 +1,6 @@
 dotdash/automation/tests/SeleniumTests.java
  dotdash.automation.tests.SeleniumTests
+dotdash/automation/tests/CucumberRunner.java
+ dotdash.automation.tests.CucumberRunner
+dotdash/automation/tests/LoginStepDefs.java
+ dotdash.automation.tests.LoginStepDefs
